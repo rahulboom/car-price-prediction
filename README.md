@@ -13,3 +13,4 @@ By using df.describe() is used to view some basic statistical details like perce
 
 ![image](https://user-images.githubusercontent.com/61103916/134635868-eff7c202-198a-4400-ad42-bcd6bc4d1205.png)
 ![image](https://user-images.githubusercontent.com/61103916/134635923-3bae9c18-8adf-421f-90d6-99a5fb02d3fe.png)
+![image](https://user-images.githubusercontent.com/61103916/134636033-5d4e1e36-4691-46f4-af1e-7bbcfc96cab2.png)
